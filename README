@@ -1,0 +1,12 @@
+relayd.conf
+===========
+	relayd config.
+
+usage
+-----
+	# rcctl enable relayd
+	# rcctl start relayd
+
+depends on
+----------
+	* relayd
