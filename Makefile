@@ -9,4 +9,4 @@ install:
 uninstall:
 	rm -f ${PREFIX}/relayd.conf
 
-.PHONY: all relayd.conf install uninstall
+.PHONY: all install uninstall
